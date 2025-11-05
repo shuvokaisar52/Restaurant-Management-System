@@ -1,0 +1,990 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\managerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:managerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ownerpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:ownerpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ownerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:ownerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\discountlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:discountlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\data access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:data access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\allproductshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:allproductshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\allproductshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:allproductshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\addcatagory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:addcatagory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\addcatagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:addcatagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ordercompletepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:ordercompletepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ordercompletepage.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:ordercompletepage.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\orderhistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:orderhistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\paymentmethodslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:paymentmethodslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\selectedpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:selectedpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\showcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:showcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ownerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:ownerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\product.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:product.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\productlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:productlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\allproductshow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:allproductshow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\userpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:userpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\showcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:showcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\employeepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:employeepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\employeepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:employeepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ordercompletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:ordercompletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\employeepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:employeepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\employeepage.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:employeepage.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\C# Task\\Project\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\showcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:showcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\paymentmethodslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:paymentmethodslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ordercompletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:ordercompletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\managerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:managerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHUVO\\Downloads\\O (1)\\o\\o\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\discountlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:discountlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\paymentmethodslist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:paymentmethodslist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\C#\\Restaurant Management\\RestaurantManagement\\PaymentMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\discountlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E55A5EA-AF21-4F0D-98C9-C58B159D0EEA}|RestaurantManagement.csproj|solutionrelative:discountlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHUVO\\Downloads\\O (1)\\o\\o\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHUVO\\AppData\\Local\\Temp\\e02dc9ac-aa0a-494d-a770-6a3ebbab135f_o.zip.35f\\o\\o\\Data Access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 164,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 221,
+          "SelectedChildIndex": 39,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderHistory.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "OrderHistory.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderHistory.cs [Design]",
+              "RelativeToolTip": "OrderHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:46:06.562Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductList.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ProductList.cs",
+              "RelativeDocumentMoniker": "ProductList.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ProductList.cs [Design]",
+              "RelativeToolTip": "ProductList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:59:13.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductList.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ProductList.cs",
+              "RelativeDocumentMoniker": "ProductList.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ProductList.cs",
+              "RelativeToolTip": "ProductList.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAiwO8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:49:16.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "OrderHistory.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderHistory.cs",
+              "RelativeToolTip": "OrderHistory.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAAIcAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:47:41.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwIAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:42:30.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllProductShow.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\AllProductShow.cs",
+              "RelativeDocumentMoniker": "AllProductShow.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\AllProductShow.cs",
+              "RelativeToolTip": "AllProductShow.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAAADcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:36:50.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderHistory.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderHistory.Designer.cs",
+              "RelativeDocumentMoniker": "OrderHistory.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderHistory.Designer.cs",
+              "RelativeToolTip": "OrderHistory.Designer.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAlwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:59:02.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllProductShow.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\AllProductShow.cs",
+              "RelativeDocumentMoniker": "AllProductShow.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\AllProductShow.cs [Design]",
+              "RelativeToolTip": "AllProductShow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:54:09.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EmployeePage.resx",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeePage.resx",
+              "RelativeDocumentMoniker": "EmployeePage.resx",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeePage.resx",
+              "RelativeToolTip": "EmployeePage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-22T19:50:53.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\C# Task\\Project\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Project\\Form1.cs",
+              "ToolTip": "H:\\C# Task\\Project\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\Project\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:57:15.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductList.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ProductList.Designer.cs",
+              "RelativeDocumentMoniker": "ProductList.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ProductList.Designer.cs",
+              "RelativeToolTip": "ProductList.Designer.cs",
+              "ViewState": "AgIAAEUCAAAAAAAAAAAlwGECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:00:45.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderCompletePage.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderCompletePage.cs",
+              "RelativeDocumentMoniker": "OrderCompletePage.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderCompletePage.cs",
+              "RelativeToolTip": "OrderCompletePage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:54:55.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OwnerPage.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OwnerPage.cs",
+              "RelativeDocumentMoniker": "OwnerPage.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OwnerPage.cs [Design]",
+              "RelativeToolTip": "OwnerPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:00:01.196Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OwnerPage.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OwnerPage.cs",
+              "RelativeDocumentMoniker": "OwnerPage.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OwnerPage.cs",
+              "RelativeToolTip": "OwnerPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:53:56.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SelectedPaymentMethod.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\SelectedPaymentMethod.cs",
+              "RelativeDocumentMoniker": "SelectedPaymentMethod.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\SelectedPaymentMethod.cs",
+              "RelativeToolTip": "SelectedPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:26:55.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderCompletePage.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderCompletePage.cs",
+              "RelativeDocumentMoniker": "OrderCompletePage.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderCompletePage.cs [Design]",
+              "RelativeToolTip": "OrderCompletePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:14:39.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentMethodsList.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\PaymentMethodsList.cs",
+              "RelativeDocumentMoniker": "PaymentMethodsList.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\PaymentMethodsList.cs [Design]",
+              "RelativeToolTip": "PaymentMethodsList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:32:43.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShowCategory.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ShowCategory.cs",
+              "RelativeDocumentMoniker": "ShowCategory.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ShowCategory.cs",
+              "RelativeToolTip": "ShowCategory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:19:03.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentMethods.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\PaymentMethods.cs",
+              "RelativeDocumentMoniker": "PaymentMethods.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\PaymentMethods.cs",
+              "RelativeToolTip": "PaymentMethods.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:11:01.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PaymentMethodsList.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\PaymentMethodsList.cs",
+              "RelativeDocumentMoniker": "PaymentMethodsList.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\PaymentMethodsList.cs",
+              "RelativeToolTip": "PaymentMethodsList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:31:55.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OwnerPage.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OwnerPage.Designer.cs",
+              "RelativeDocumentMoniker": "OwnerPage.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OwnerPage.Designer.cs",
+              "RelativeToolTip": "OwnerPage.Designer.cs",
+              "ViewState": "AgIAAKUBAAAAAAAAAAAmwKcBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:54:40.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmployeePage.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeePage.cs",
+              "RelativeDocumentMoniker": "EmployeePage.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeePage.cs",
+              "RelativeToolTip": "EmployeePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:40:44.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PaymentMethods.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\PaymentMethods.cs",
+              "RelativeDocumentMoniker": "PaymentMethods.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\PaymentMethods.cs [Design]",
+              "RelativeToolTip": "PaymentMethods.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:09:10.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Product.cs [Design]",
+              "RelativeToolTip": "Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:23:44.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "App.config",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-10T15:37:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PaymentMethodsList.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\PaymentMethodsList.Designer.cs",
+              "RelativeDocumentMoniker": "PaymentMethodsList.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\PaymentMethodsList.Designer.cs",
+              "RelativeToolTip": "PaymentMethodsList.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:32:27.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderCompletePage.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderCompletePage.Designer.cs",
+              "RelativeDocumentMoniker": "OrderCompletePage.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderCompletePage.Designer.cs",
+              "RelativeToolTip": "OrderCompletePage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:55:10.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderCompletePage.resx",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderCompletePage.resx",
+              "RelativeDocumentMoniker": "OrderCompletePage.resx",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\OrderCompletePage.resx",
+              "RelativeToolTip": "OrderCompletePage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-10T15:07:02.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PaymentMethod.cs [Design]",
+              "DocumentMoniker": "F:\\C#\\Restaurant Management\\RestaurantManagement\\PaymentMethod.cs",
+              "ToolTip": "F:\\C#\\Restaurant Management\\RestaurantManagement\\PaymentMethod.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:58:45.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCatagory.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\AddCatagory.cs",
+              "RelativeDocumentMoniker": "AddCatagory.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\AddCatagory.cs",
+              "RelativeToolTip": "AddCatagory.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAIAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:56:59.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\SHUVO\\Downloads\\O (1)\\o\\o\\Form3.cs",
+              "ToolTip": "C:\\Users\\SHUVO\\Downloads\\O (1)\\o\\o\\Form3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:20:38.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Data Access.cs",
+              "DocumentMoniker": "C:\\Users\\SHUVO\\AppData\\Local\\Temp\\e02dc9ac-aa0a-494d-a770-6a3ebbab135f_o.zip.35f\\o\\o\\Data Access.cs",
+              "ToolTip": "C:\\Users\\SHUVO\\AppData\\Local\\Temp\\e02dc9ac-aa0a-494d-a770-6a3ebbab135f_o.zip.35f\\o\\o\\Data Access.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:34:00.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\SHUVO\\Downloads\\O (1)\\o\\o\\Form2.cs",
+              "ToolTip": "C:\\Users\\SHUVO\\Downloads\\O (1)\\o\\o\\Form2.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:47:09.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerList.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ManagerList.cs",
+              "RelativeDocumentMoniker": "ManagerList.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ManagerList.cs",
+              "RelativeToolTip": "ManagerList.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAAEsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:57:06.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ManagerList.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ManagerList.cs",
+              "RelativeDocumentMoniker": "ManagerList.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ManagerList.cs [Design]",
+              "RelativeToolTip": "ManagerList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:42:58.225Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmployeePage.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeePage.cs",
+              "RelativeDocumentMoniker": "EmployeePage.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeePage.cs [Design]",
+              "RelativeToolTip": "EmployeePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:30:31.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:59:01.222Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:18:41.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeList.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeeList.cs",
+              "RelativeDocumentMoniker": "EmployeeList.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeeList.cs",
+              "RelativeToolTip": "EmployeeList.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAABMBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:11:50.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EmployeeList.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeeList.cs",
+              "RelativeDocumentMoniker": "EmployeeList.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeeList.cs [Design]",
+              "RelativeToolTip": "EmployeeList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:10:49.49Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiscountList.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\DiscountList.cs",
+              "RelativeDocumentMoniker": "DiscountList.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\DiscountList.cs",
+              "RelativeToolTip": "DiscountList.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAqwJ4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:39:40.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DiscountList.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\DiscountList.cs",
+              "RelativeDocumentMoniker": "DiscountList.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\DiscountList.cs [Design]",
+              "RelativeToolTip": "DiscountList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:49:59.468Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:49:43.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Category.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Category.cs [Design]",
+              "RelativeToolTip": "Category.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:29:32.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:46:38.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserPanel.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\UserPanel.cs",
+              "RelativeDocumentMoniker": "UserPanel.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\UserPanel.cs [Design]",
+              "RelativeToolTip": "UserPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:35:01.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:57:33.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Data Access.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Data Access.cs",
+              "RelativeDocumentMoniker": "Data Access.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Data Access.cs",
+              "RelativeToolTip": "Data Access.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:13:58.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:31:44.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserPanel.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\UserPanel.cs",
+              "RelativeDocumentMoniker": "UserPanel.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\UserPanel.cs",
+              "RelativeToolTip": "UserPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:45:46.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCatagory.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\AddCatagory.Designer.cs",
+              "RelativeDocumentMoniker": "AddCatagory.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\AddCatagory.Designer.cs",
+              "RelativeToolTip": "AddCatagory.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:14:12.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShowCategory.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ShowCategory.cs",
+              "RelativeDocumentMoniker": "ShowCategory.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ShowCategory.cs [Design]",
+              "RelativeToolTip": "ShowCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:24:27.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DiscountList.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\DiscountList.Designer.cs",
+              "RelativeDocumentMoniker": "DiscountList.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\DiscountList.Designer.cs",
+              "RelativeToolTip": "DiscountList.Designer.cs",
+              "ViewState": "AgIAALUBAAAAAAAAAAAlwIEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:01:33.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShowCategory.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ShowCategory.Designer.cs",
+              "RelativeDocumentMoniker": "ShowCategory.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\ShowCategory.Designer.cs",
+              "RelativeToolTip": "ShowCategory.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:00:50.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserPanel.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\UserPanel.Designer.cs",
+              "RelativeDocumentMoniker": "UserPanel.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\UserPanel.Designer.cs",
+              "RelativeToolTip": "UserPanel.Designer.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAlwPcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:47:39.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AllProductShow.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\AllProductShow.Designer.cs",
+              "RelativeDocumentMoniker": "AllProductShow.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\AllProductShow.Designer.cs",
+              "RelativeToolTip": "AllProductShow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:09:16.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Product.Designer.cs",
+              "RelativeDocumentMoniker": "Product.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Product.Designer.cs",
+              "RelativeToolTip": "Product.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:37:46.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmployeePage.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeePage.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeePage.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\EmployeePage.Designer.cs",
+              "RelativeToolTip": "EmployeePage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:31:40.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Dashboard.Designer.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Dashboard.Designer.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAAAIABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:51:28.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:24:21.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "H:\\C# Task\\Restaurant Management\\Restaurant Management\\RestaurantManagement\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:28:27.657Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 179,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

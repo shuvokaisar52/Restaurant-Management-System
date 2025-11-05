@@ -1,0 +1,86 @@
+H:\C# Task\Restaurant Management\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+H:\C# Task\Restaurant Management\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+H:\C# Task\Restaurant Management\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.AllProductShow.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Category.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Dashboard.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.DiscountList.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.EmployeeList.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.EmployeePage.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ManagerList.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.OrderCompletePage.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.OrderHistory.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.OwnerPage.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Product.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.LoginPage.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Form2.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ShowCategory.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ManagerPage.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ProductList.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.PaymentHistory.resources
+H:\C# Task\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.AddCatagory.resources
+F:\C#\Restaurant Management\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+F:\C#\Restaurant Management\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+F:\C#\Restaurant Management\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.AddCatagory.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.AllProductShow.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Category.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Dashboard.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.DiscountList.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.EmployeeList.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.EmployeePage.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ManagerList.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.OrderCompletePage.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.OrderHistory.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.OwnerPage.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.PaymentHistory.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Product.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.LoginPage.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Form2.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ProductList.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ShowCategory.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ManagerPage.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.PaymentMethods.resources
+F:\C#\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.PaymentMethodsList.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.AddCatagory.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.AllProductShow.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Category.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Dashboard.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.DiscountList.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.EmployeeList.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.EmployeePage.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ManagerList.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.OrderCompletePage.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.OrderHistory.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.OwnerPage.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.PaymentHistory.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.PaymentMethodsList.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.PaymentMethods.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Product.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.LoginPage.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Form2.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ProductList.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ShowCategory.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.ManagerPage.resources
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+H:\C# Task\Restaurant Management\Restaurant Management\RestaurantManagement\obj\Debug\RestaurantManagement.OrderDetails.resources
